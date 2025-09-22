@@ -1,8 +1,6 @@
-package eerste_oefeningen.Iteraties_en_Condities;
+package Week1.Iteraties_en_Condities;
 
-import java.util.Objects;
 import java.util.Scanner;
-import java.util.concurrent.atomic.AtomicReferenceFieldUpdater;
 
 public class Sommeren {
     public static void main(String[] args) throws InterruptedException {

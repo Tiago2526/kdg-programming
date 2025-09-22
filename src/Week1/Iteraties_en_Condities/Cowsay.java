@@ -1,4 +1,4 @@
-package eerste_oefeningen.Iteraties_en_Condities;
+package Week1.Iteraties_en_Condities;
 
 import java.util.Scanner;
 

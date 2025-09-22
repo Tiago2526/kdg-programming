@@ -1,4 +1,4 @@
-package eerste_oefeningen.Eenvoudige_algoritmes;
+package Week1.Eenvoudige_algoritmes;
 
 import java.util.Scanner;
 
